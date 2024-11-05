@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Valoriser le Slam</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Le Monde du Slam</h1>
+        <p>Exprimez-vous, libérez vos mots, ressentez l'art du slam !</p>
+    </header>
+
+    <main>
+        <section id="intro">
+            <h2>Qu'est-ce que le Slam ?</h2>
+            <p>Le slam est un art oratoire où les mots prennent vie, une poésie qui se fait entendre, des émotions qui se libèrent. Découvrez cet univers qui allie passion et performance.</p>
+        </section>
+
+        <section id="performances">
+            <h2>Performances de Slam</h2>
+            <div class="performance">
+                <h3>Performance 1</h3>
+                <p>Découvrez cette incroyable performance où les mots dansent et les idées se libèrent.</p>
+            </div>
+            <div class="performance">
+                <h3>Performance 2</h3>
+                <p>Une autre performance puissante qui vous touchera en plein cœur. Le slam, c'est aussi des histoires et des émotions partagées.</p>
+            </div>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2024 Le Monde du Slam. Tous droits réservés.</p>
+    </footer>
+</body>
+</html>
